@@ -4,9 +4,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-
-	"github.com/foxnut/go-hdwallet"
-
+	"github.com/AshkanAbd/go-hdwallet"
 	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
